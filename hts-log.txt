@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Jan 2024 11:15:21 at https://decentralisedacct.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://decentralisedacct.com/ -O1 "C:\Word\Projects\RabsonFam\Tee\T" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:05	Warning: 	Found for https://decentralisedacct.com/dashboard/
+11:18:05	Warning: 	File has moved from https://decentralisedacct.com/dashboard/ to https://decentralisedacct.com/login/?redirect_to=https%3A%2F%2Fdecentralisedacct.com%2Fdashboard%2F
+11:18:05	Warning: 	Moved Permanently for https://decentralisedacct.com/start-new-investment/
+11:18:05	Warning: 	File has moved from https://decentralisedacct.com/start-new-investment/ to https://decentralisedacct.com
+11:18:05	Warning: 	Found for https://decentralisedacct.com/withdrawal-2/
+11:18:05	Warning: 	File has moved from https://decentralisedacct.com/withdrawal-2/ to https://decentralisedacct.com/login/?redirect_to=https%3A%2F%2Fdecentralisedacct.com%2Fwithdrawal-2%2F
+11:18:28	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://decentralisedacct.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff (from https://decentralisedacct.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3)
+11:18:30	Warning: 	Moved Permanently for https://decentralisedacct.com/?p=788
+11:18:30	Warning: 	File has moved from https://decentralisedacct.com/?p=788 to https://decentralisedacct.com
+11:18:35	Warning: 	Moved Permanently for https://decentralisedacct.com/?p=789
+11:18:35	Warning: 	File has moved from https://decentralisedacct.com/?p=789 to https://decentralisedacct.com
+11:18:38	Warning: 	Moved Permanently for https://decentralisedacct.com/?p=841
+11:18:38	Warning: 	File has moved from https://decentralisedacct.com/?p=841 to https://decentralisedacct.com
+11:18:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://decentralisedacct.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecentralisedacct.com%2Fcontact-us%2F (from https://decentralisedacct.com/contact-us/)
+11:18:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://decentralisedacct.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecentralisedacct.com%2Fcontact-us%2F&format=xml (from https://decentralisedacct.com/contact-us/)
+11:18:40	Warning: 	Moved Permanently for https://decentralisedacct.com/?p=3
+11:18:40	Warning: 	File has moved from https://decentralisedacct.com/?p=3 to https://decentralisedacct.com
+11:18:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://decentralisedacct.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800 (from https://decentralisedacct.com/wp-includes/css/dashicons.min.css)
+11:18:41	Warning: 	Moved Permanently for https://decentralisedacct.com/?p=793
+11:18:41	Warning: 	File has moved from https://decentralisedacct.com/?p=793 to https://decentralisedacct.com
+11:18:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://decentralisedacct.com/wp-content/plugins/wpforms/pro/assets/images/vendor/intl-tel-input-flags.png (from https://decentralisedacct.com/wp-content/plugins/wpforms/pro/assets/css/vendor/intl-tel-input.min.css?ver=17.0.3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 20 seconds : 254 links scanned, 240 files written (14596649 bytes overall) [7390524 bytes received at 36952 bytes/sec], 10846693 bytes transferred using HTTP compression in 173 files, ratio 32%, 5.5 requests per connection
+(No errors, 21 warnings, 0 messages)

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.coingecko.com	TRUE	/	FALSE	1999999999	__cf_bm	1z71RH6pdGDZ0VdwOQErakPisOcZQAbPfukRM0cTlqE-1704442573-1-AY575S6mZE9yci1RGNiYPXRgZ8k7Kd4nqe+RIdcnzlGbghAG7l1Y6o4iVYigkXnJ7Hl6VchEZzUPvERrPbLc/3g=
+assets.coingecko.com	TRUE	/	FALSE	1999999999	SameSite	None
+
